@@ -1,4 +1,4 @@
-# cli-t3
+# t3
 A Simple Tic Tac Toe Game in Go.
 
 ![image](draw.png)
